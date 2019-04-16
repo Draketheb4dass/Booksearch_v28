@@ -6,6 +6,7 @@
     tools:context=".activities.BookDetailActivity">
 
     <include
+        android:id="@+id/toolbar_detail"
         layout="@layout/toolbar"
         />
 
